@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753235200054",
+    "firebase_url": "https://tienda-7befc.firebaseio.com",
+    "project_id": "tienda-7befc",
+    "storage_bucket": "tienda-7befc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753235200054:android:85500c85ca7c0820f27097",
+        "android_client_info": {
+          "package_name": "com.nain.tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753235200054-tehgtt7bu76vp6r7j15kjlsj6k7mu734.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nain.tienda",
+            "certificate_hash": "5fe7e26fb36345561ff75809663b864b177bd630"
+          }
+        },
+        {
+          "client_id": "753235200054-p6ua3m9vdjpmaddg1ak09n1klqv4kiof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRjeKkUob1HJnzCw1Bj9vXbbsyuXgTVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753235200054-p6ua3m9vdjpmaddg1ak09n1klqv4kiof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

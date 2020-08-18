@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="txt_insertar_datos">Para continuar inserta todos los campos</string>
+    <string name="txt_email_invalid">Insertaste todos los campos pero el correo no es valido</string>
+    <string name="txt_password_invalid">La contraseña debe tener al menos 6 caracteres</string>
+
+    <string-array name="roles">
+        <item>COMPRADOR</item>
+        <item>VENDEDOR</item>
+    </string-array>
+</resources>
